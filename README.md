@@ -4,7 +4,6 @@ I’m a 2nd-year Computer Science student at HCMUS – University of Science (VN
 I enjoy learning new technologies, staying open-minded, and tackling challenging problems in creative ways.
 
 I’m currently focusing on **Backend Development** and **DevOps**.  
-Most of my daily work involves **C++** and **JavaScript**, and I’m also familiar with **Python** and **Go**.
 
 Some projects I’ve worked on:
 - An enhanced **Wordle-style game** with improved mechanics and UX  
