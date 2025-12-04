@@ -1,16 +1,21 @@
-## Hi there 👋
+### 🐱 Hi, I'm Junta
 
-<!--
-**dungta1610/dungta1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 2nd-year Computer Science student at HCMUS – University of Science (VNU-HCM).  
+I enjoy learning new technologies, staying open-minded, and tackling challenging problems in creative ways.
 
-Here are some ideas to get you started:
+I’m currently focusing on **Backend Development** and **DevOps**.  
+Most of my daily work involves **C++** and **JavaScript**, and I’m also familiar with **Python** and **Go**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some projects I’ve worked on:
+- An enhanced **Wordle-style game** with improved mechanics and UX  
+- A **social, trip-planning web app** for people who love traveling  
+- A **web app for interview preparation and CV support**
+
+During high school, I received several programming-related awards and participated in **ICPC**, reaching the **National round**.  
+In the next year, my main goal is to earn an **internship as a Backend or DevOps engineer** and continue building real-world systems.
+
+You can reach me via email at: `dungta386469@gmail.com`
+
+---
+
+
