@@ -6,9 +6,9 @@ I enjoy learning new technologies, staying open-minded, and tackling challenging
 I’m currently focusing on **Backend Development** and **DevOps**.  
 
 Some projects I’ve worked on:
-- An enhanced **Wordle-style game** with improved mechanics and UX  
+- An **mini E-Commerce Backend Server** to manange product and preorder inventory stuff
+- A **simple design of banking system** applying **Clean Architecture** for maintanability
 - A **social, trip-planning web app** for people who love traveling  
-- A **web app for interview preparation and CV support**
 
 During high school, I received several programming-related awards and participated in **ICPC**, reaching the **National round**.  
 In the next year, my main goal is to earn an **internship as a Backend or DevOps engineer** and continue building real-world systems.
