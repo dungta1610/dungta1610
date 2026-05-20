@@ -3,15 +3,16 @@
 I’m a 2nd-year Computer Science student at HCMUS – University of Science (VNU-HCM).  
 I enjoy learning new technologies, staying open-minded, and tackling challenging problems in creative ways.
 
-I’m currently focusing on **Backend Development** and **DevOps**.  
+I’m currently focusing on **Backend Development** and **Cloud Computing**.  
 
 Some projects I’ve worked on:
+- A **Web3 token launchpad** supporting meme-token discovery, launch, and
+trading-related user flows
 - An **mini E-Commerce Backend Server** to manange product and preorder inventory stuff
-- A **simple design of banking system** applying **Clean Architecture** for maintanability
 - A **social, trip-planning web app** for people who love traveling  
 
 During high school, I received several programming-related awards and participated in **ICPC**, reaching the **National round**.  
-In the next year, my main goal is to earn an **internship as a Backend or DevOps engineer** and continue building real-world systems.
+In the next year, my main goal is to earn an **internship as a Backend or Cloud engineer** and continue building real-world systems.
 
 You can reach me via email at: `dungta386469@gmail.com`
 
